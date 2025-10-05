@@ -1,0 +1,11 @@
+{
+    "validUsername": "Admin",
+    "validPassword": "admin123",
+    "invalidUsername": "wrongUser",
+    "invalidPassword": "12345",
+    "space": "  ",
+    "longUser": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "longPass": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+    "searchEmployee": "Mark Lee",
+    "searchNotFound": "NoSuchPerson"
+}
